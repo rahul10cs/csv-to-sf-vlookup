@@ -20,3 +20,18 @@ Stop doing manual VLOOKUPs against Salesforce records.
 3.  Map your CSV column (**"Lookup Value"**) to a Salesforce field (e.g., Email, Record ID, or External ID).
 4.  Select the specific fields you want to retrieve from Salesforce.
 5.  Click **"Run VLOOKUP"** to download your enriched CSV instantly.
+
+
+<img width="768" height="1528" alt="image" src="https://github.com/user-attachments/assets/cdc87768-0b4d-4760-a29a-dd9c8b66f49e" />
+
+<img width="762" height="1202" alt="image" src="https://github.com/user-attachments/assets/d8c3c081-560b-4a33-93fb-cf087bd65dd3" />
+
+<img width="634" height="132" alt="image" src="https://github.com/user-attachments/assets/df7e6797-74f4-4665-b946-9ec5afa306d6" />
+
+<img width="2342" height="688" alt="image" src="https://github.com/user-attachments/assets/1530f21c-08eb-4a2e-aa57-c7e9618b86b6" />
+
+
+
+
+
+
